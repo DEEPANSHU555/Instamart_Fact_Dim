@@ -1,0 +1,5 @@
+Data set link: https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
+The dataset link has been provided, and the data is now stored on Amazon S3.
+To facilitate data loading into the Snowflake data warehouse, a staging area has been created between S3 and Snowflake. 
+Additionally, you can find all SQL queries necessary for creating the fact and dimension tables for the dataset in the following link.
+SNOWFLAKE WORKSHEET URL:https://app.snowflake.com/foimibm/gg57983/w1FtQsPIxk6s/query
